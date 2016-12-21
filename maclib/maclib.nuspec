@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Webextant.Security.Cryptography.Mac</id>
+    <version>$version$</version>
+    <title>MAC</title>
+    <authors>thewizster</authors>
+    <owners>thewizster</owners>
+    <projectUrl>https://github.com/thewizster/mac</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Easy to impliment cryptographic library useful for securing communications using HMAC SHA256</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>hmac sha256 cryptography communications secure api token secret key</tags>
+  </metadata>
+</package>
