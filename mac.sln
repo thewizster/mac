@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		readme.md = readme.md
 	EndProjectSection
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "maccore", "maccore\maccore.xproj", "{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		imac\imac.projitems*{11ae0a25-34d0-4897-84b6-e9df3c1f71cc}*SharedItemsImports = 4
@@ -81,6 +83,22 @@ Global
 		{889E4989-248F-4F98-9D9E-0CEDC5D9A9E3}.Release|x64.Build.0 = Release|Any CPU
 		{889E4989-248F-4F98-9D9E-0CEDC5D9A9E3}.Release|x86.ActiveCfg = Release|Any CPU
 		{889E4989-248F-4F98-9D9E-0CEDC5D9A9E3}.Release|x86.Build.0 = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|ARM.Build.0 = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|ARM.Build.0 = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|x64.Build.0 = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{67412BE8-14D7-4C23-AE3B-DE2C5F5847CC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

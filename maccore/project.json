@@ -1,0 +1,38 @@
+{
+  "name": "Webextant.Security.Cryptography.Mac",
+  "version": "1.0.2-*",
+  "description": "A cryptographic library useful for securing communications using HMAC SHA256",
+  "copyright": "Webextant 2016",
+  "title": "Mac.NET",
+  "authors": [
+    "thewizster"
+  ],
+  "language": "en-US",
+  "buildOptions": {
+    "outputName": "Webextant.Security.Cryptography.Mac"
+  },
+  "packOptions": {
+    
+    "summary": "A cryptographic library useful for securing communications using HMAC SHA256",
+    "tags": [
+      "hmac", "sha256", "cryptography", "communications", "secure", "api", "token", "secret", "key"
+    ],
+    "owners": [
+      "thewizster"
+    ],
+    "releaseNotes": "initial release",
+    "licenseUrl": "https://github.com/thewizster/mac/blob/master/LICENSE.txt",
+    "requireLicenseAcceptance": false,
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/thewizster/mac"
+    }
+  },
+  "frameworks": {
+    "netstandard1.6":{
+      "dependencies": {
+        "NETStandard.Library":"1.6.0"
+      }
+    }
+  }
+}
